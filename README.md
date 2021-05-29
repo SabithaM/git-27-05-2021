@@ -7,3 +7,4 @@
 	-`git commit -m "MESSAGE`: Commit without opening nano editor
 - `git log`: history of commit
 	-`git log --oneline: oneline commit history
+- `git diff`: gives you the difference
