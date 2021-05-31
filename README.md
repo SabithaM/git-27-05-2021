@@ -1,4 +1,4 @@
-#2021-05-27 git
+#2021-05-27 GIT
 
 - `init`: initialize git repo in current location
 - `git status`: gives you the status
@@ -17,7 +17,7 @@
 - `.gitignore`: file that pattern matches files to ignore
 - `.gitkeep`: convention to keep an empty folder
 
-## remotes
+## REMOTES
 
 - `git remote add <NAME> <URL>`: <NAME=origin> point to the rem
 - `git push <WHERE> <WHAT>`: local repo -> remote
